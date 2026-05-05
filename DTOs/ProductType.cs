@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace S32750Test.DTOs
+namespace Test1.DTOs
 {
     public class ProductType
     {

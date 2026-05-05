@@ -1,4 +1,4 @@
-﻿namespace S32750Test.DTOs
+﻿namespace Test1.DTOs
 {
     public class ProductResponse
     {

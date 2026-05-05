@@ -1,6 +1,6 @@
-using S32750Test.DTOs;
+using Test1.DTOs;
 
-namespace s32750Test.DTOs;
+namespace Test1.DTOs;
 
 public class MakerResponse
 {
